@@ -1,6 +1,6 @@
 # map-app-demo
 
-Just a quick demo of how to run this app:
+Just a quick instruction of how to run this app:
 
 1. Run npm install (I have express saved globally on my pc so you may have to install express locally before running server.js using command 'npm i -g express')
 
